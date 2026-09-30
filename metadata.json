@@ -1,0 +1,6 @@
+{
+  "name": "RetroForge: Classic Browser Arcade & Game Architect",
+  "description": "Play instant classical browser games (Snake, Tetris, Bounce Ball, Mini Mario Platformer, Space Defender) and explore blueprint ideas, mechanics, and prompt templates to build your own in Google AI Studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
